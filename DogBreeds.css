@@ -1,0 +1,21 @@
+table{
+	background-color: white;
+}
+
+th{
+	font-style: oblique;
+	font-size: x-large;
+}
+
+.desc {
+	text-decoration: underline;
+	font-style: italic;
+	font-size: xx-large;
+}
+
+.link {
+	text-decoration-color: aqua;
+	font-style: italic;
+	font-size: xx-large;
+	text-align: center;
+}
